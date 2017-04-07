@@ -56,7 +56,4 @@ docs/_build/
 # PyBuilder
 target/
 
-# Output files
-*.csv
-
 .DS_Store
